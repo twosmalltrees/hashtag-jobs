@@ -1,0 +1,23 @@
+
+.twitter-tweet.twitter-tweet-rendered {
+  width: 520px !important;
+  border-radius: 4px;
+  margin-bottom: 20px !important;
+  box-shadow: 1px 1px #191919, 2px 2px #191919, 3px 3px #191919, 4px 4px #191919, 5px 5px #191919, 6px 6px #191919;
+}
+
+.twitter-tweet.twitter-tweet-rendered:hover {
+  width: 520px !important;
+  border-radius: 4px;
+  transform: translate(2px, 2px) !important;
+  box-shadow: 1px 1px #191919, 2px 2px #191919, 3px 3px #191919, 4px 4px #191919;
+}
+
+.rc-checkbox-checked .rc-checkbox-inner {
+  border-color: #96dc70 !important;
+  background-color: #96dc70 !important;
+}
+
+.rc-checkbox:hover .rc-checkbox-inner, .rc-checkbox-input:focus + .rc-checkbox-inner {
+  border-color: #96dc70 !important;
+}
